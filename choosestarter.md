@@ -1,6 +1,6 @@
 # Choose Your Starter!
 
-
+After going to the lab you are presented with 3 different pokemon, which one do you choose?
 
 [**Charmander**](choosetofight.md)<br>
 
