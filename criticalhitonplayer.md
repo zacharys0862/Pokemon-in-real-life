@@ -1,6 +1,6 @@
 # You got critted!
 
-Unlucky! Your pokemon fainted. 
+Unlucky! Your Pokémon fainted. 
 
 You dropped $437 and left. 
 
