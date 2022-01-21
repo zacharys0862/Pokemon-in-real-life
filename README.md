@@ -4,4 +4,4 @@ Welcome to Pokémon in real life! Dive into the world of Pokémon and start your
 
 In this game you make your own choices in order to become a Pokémon master!
 
-[Start game!][alarm.md]
+[Start game!](alarm.md)
