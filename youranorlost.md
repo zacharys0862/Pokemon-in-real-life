@@ -1,6 +1,6 @@
-#Game Over
+# Game Over
 
-Maybe some other day
+## Maybe some other day...
 
 [Go back home](alarm.md)
 
