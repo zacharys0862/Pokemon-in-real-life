@@ -2,4 +2,4 @@
 
 You were late, but at least you got Pikachu!
 
-[Continue](choosetofight.md)
+[**Continue**](choosetofight.md)
