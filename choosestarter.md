@@ -1,7 +1,7 @@
 # Choose Your Starter!
 
 
-![Starters](https://images.app.goo.gl/SnLY1pmWS2dsqNQj8)
+![Starters](kantostarters.png)
 
 
 After going to the lab you are presented with 3 different pokemon, which one do you choose?
