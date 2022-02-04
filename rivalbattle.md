@@ -1,4 +1,4 @@
-# Choose To Fight
+# Rival Battle!
 
 Rival Battle! Choose your move!
 
