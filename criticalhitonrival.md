@@ -1,6 +1,6 @@
 # You got a critical hit!
 
-The opposing Pokémon fainted! 
+The opposing Pokémon fainted!
 
 You got $1000!
 

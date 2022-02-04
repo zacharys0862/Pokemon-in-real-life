@@ -2,5 +2,5 @@
 
 ## Maybe some other day...
 
-[Go back home](alarm.md)
+[**Go back home**](alarm.md)
 
