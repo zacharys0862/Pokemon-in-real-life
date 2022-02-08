@@ -1,5 +1,8 @@
 # You got a critical hit!
 
+
+![critical](yougotacriticalhit.jpeg)
+
 The opposing Pokémon fainted!
 
 You got $1000!
